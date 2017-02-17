@@ -1,4 +1,4 @@
-FROM handcraftedbits/nginx-unit-hugo:v0.18.1-5
+FROM handcraftedbits/nginx-unit-hugo:v0.18.1-6
 MAINTAINER HandcraftedBits <opensource@handcraftedbits.com>
 
 RUN apk update && \
