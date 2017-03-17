@@ -9,6 +9,7 @@ A [Docker](https://www.docker.com) container that extends
 * [Bower](https://bower.io)
 * [Grunt](http://gruntjs.com)
 * [Gulp](http://gulpjs.com)
+* [jq](https://stedolan.github.io/jq/)
 * [pip](https://pypi.python.org/pypi/pip)
 * [Pygments](http://pygments.org/)
 
